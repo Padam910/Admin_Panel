@@ -1,0 +1,11 @@
+.chart-box {
+  position: relative;
+  height: 200px;
+}
+
+.chart {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%
+}
